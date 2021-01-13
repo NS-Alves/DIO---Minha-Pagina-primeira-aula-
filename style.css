@@ -1,0 +1,37 @@
+body {
+    background: rgba(255, 255, 182, 0.644);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo {
+    border-radius: 50px;
+    border-color: yellow;
+}
+
+.post {
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+}
+
+#title, .subtitle, .post_title {
+    color: rgb(15, 13, 138);
+}
+
+
+.post_title {
+    font-weight: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
+}
